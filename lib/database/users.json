@@ -1,0 +1,32 @@
+[
+    {
+      "name": "John Joshua",
+      "message": "Thanks for your service",
+      "unread_count": 1,
+      "profile_picture": "john_joshua.jpg"
+    },
+    {
+      "name": "Chinonso James",
+      "message": "Alright, I will be waiting",
+      "unread_count": 0,
+      "profile_picture": "chinonso_james.jpg"
+    },
+    {
+      "name": "Raph Ron",
+      "message": "Thanks for your service",
+      "unread_count": 5,
+      "profile_picture": "raph_ron.jpg"
+    },
+    {
+      "name": "Joy Ezekiel",
+      "message": "Thanks for your service",
+      "unread_count": 0,
+      "profile_picture": "joy_ezekiel.jpg"
+    },
+    {
+      "name": "Joy Ezekiel",
+      "message": "Thanks for your service",
+      "unread_count": 1,
+      "profile_picture": "joy_ezekiel.jpg"
+    }
+  ]  
